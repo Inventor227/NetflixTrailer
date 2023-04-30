@@ -1,0 +1,6 @@
+
+steps to install my app to your system
+1)npm i
+2)clone my repo
+3)go to terminal and write cd netflix-clone 
+4)then type npm start
